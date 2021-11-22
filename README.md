@@ -12,7 +12,7 @@ The school board believes that a certain file may been altered and are concerned
 
 ## Results
 
-*** the district summary analysis:
+### The district summary analysis:
 
 District Summary Before
 ![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/district_summary_before.png)
