@@ -42,10 +42,10 @@ School Summary After
 - Average Math Score and Average Reading scores dropped to 23-25.
 - % Passing Students for Math and Reading dropped to almost 27%.
 - % Overall passing students dropped to almost 25%.
--
+
 ### Replacing the ninth-grade scores affect the following:
 
-- Math and reading scores by grade:
+Math and reading scores by grade:
 
 Average Math Score By Grade Before
 ![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/average_math_score_by_grade_before.png)
@@ -63,24 +63,24 @@ Average Reading Score By Grade After
 - The rank of Thomas High School which was 2nd on the list moved down to 8th position duw to the change.
 
 Top 5 Schools Before
-[This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/top5_schools_before.png)
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/top5_schools_before.png)
 
 All Top Schools After
-[This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/top_schools_all_after.png)
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/top_schools_all_after.png)
 
 Bottom 5 Schools Before
-[This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/bottom5_schools_before.png)
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/bottom5_schools_before.png)
 
 Bottom 5 Schools After
-[This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/bottom5_schools_after.png)
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/bottom5_schools_after.png)
 
 - Scores by School
 
 Scores By School Spending Per Student Before
-[This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_spending_per_student_before%20(1).png)
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_spending_per_student_before%20(1).png)
 
 Score By School Spending Per Student After
-[This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_spending_per_student_after%20(1).png)
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_spending_per_student_after%20(1).png)
 
 Thomas High School dropped in the catergory of spending per student of $630 - $644.
 
@@ -89,10 +89,10 @@ Thomas High School dropped in the catergory of spending per student of $630 - $6
 3. % Overall students passing fell from 63% to 56%. Rest data remained unaffected.
 
 - Scores by School Size After
-[This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_size_before.png)
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_size_before.png)
 
 - Scores By Scool Size After 
-[This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_size_after.png)
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_size_after.png)
 
 Thomas High Schhol dropped in the Medium Category (1000- 2000)
 
@@ -101,10 +101,10 @@ Thomas High Schhol dropped in the Medium Category (1000- 2000)
 3. % Overall students passing fell from 91% to 85%. Rest data remained unaffected.
 
 Scores By School Type Before
-[This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_type_before.png)
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_type_before.png)
 
 Scores By School Type After
-[This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_type_after.png)
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/scores_by_school_type_after.png)
 
 Since Thomas High Shcool dropped  in the Charter catergory.
 
