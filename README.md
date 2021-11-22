@@ -9,3 +9,11 @@ The school board believes that a certain file may been altered and are concerned
 - The average math score for each grade level from each school.
 - The average reading score for each grade level from each school.
 - The scores by school spending per student, by school size, and by school type.
+
+## Results
+
+*** the district summary analysis:
+
+District Summary Before
+![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/district_summary_before.png)
+
