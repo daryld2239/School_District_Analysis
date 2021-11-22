@@ -48,15 +48,19 @@ School Summary After
 Math and reading scores by grade:
 
 Average Math Score By Grade Before
+
 ![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/average_math_score_by_grade_before.png)
 
 Average Math Score By Grade After
+
 ![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/average_math_score_by_grade_after.png)
 
 Average Reading Score By Grade Before
+
 ![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/average_reading_score_by_grade_before.png)
 
 Average Reading Score By Grade After
+
 ![This is an image](https://github.com/daryld2239/School_District_Analysis/blob/main/Resources/average_reading_score_by_grade_after.png)
 
 - The average math and reading scores of Thomas High School became 0 from 83.6 and 83.7 respectively.
